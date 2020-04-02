@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Guitar Tracker</string>
+    <string-array name="loc_array">
+        <item></item>
+        <item>Just Started</item>
+        <item>Learning</item>
+        <item>Halfway There</item>
+        <item>Almost Completed</item>
+        <item>Mastered</item>
+    </string-array>
+    <string-array name="type_array">
+        <item></item>
+        <item>Riff</item>
+        <item>Solo</item>
+        <item>Chords</item>
+        <item>Section</item>
+        <item>Other</item>
+    </string-array>
+</resources>
